@@ -51,7 +51,6 @@ requirements = [
     'pynacl>=1.3.0',
     'pyyaml>=5.3',
     'txaio>=20.3.1',
-    'numpy==1.15.4',
 ]
 
 setup_requirements = ['pytest-runner', ]
